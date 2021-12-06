@@ -1,0 +1,43 @@
+AREA,BAU,PANDEMIC,CURRENT_SEATS,BAU (Available),PANDEMIC (Available)
+Agents,1105,553,135,970,418
+Building 1,306,153,0,306,153
+Techstyle Area,210,129,63,147,66
+Comcast West Area,96,24,0,96,24
+Building 2,508,254,135,373,119
+Comcast West Area,104,52,28,76,24
+Comcast Central Area,356,178,107,249,71
+Unallocated,48,24,10,38,14
+Building 3,291,146,0,291,146
+Team Leads,0,0,0,0,0
+Building 1,0,0,0,0,0
+Techstyle Area,,,0,0,0
+Comcast West Area,,,0,0,0
+Building 2,0,0,0,0,0
+Comcast West Area,,,0,0,0
+Comcast Central Area,,,0,0,0
+Building 3,0,0,0,0,0
+QA,0,0,0,0,0
+Building 1,0,0,0,0,0
+Techstyle Area,,,0,0,0
+Comcast West Area,,,0,0,0
+Building 2,0,0,0,0,0
+Comcast West Area,,,0,0,0
+Comcast Central Area,,,0,0,0
+Building 3,0,0,0,0,0
+Training Rooms,175,86,0,175,86
+Building 1,72,36,0,72,36
+Building 2,0,0,0,0,0
+Building 3,103,50,0,103,50
+Operations Management,4,4,3,1,1
+Building 1,2,2,2,0,0
+Building 2,1,1,1,0,0
+Building 3,1,1,0,1,1
+Operational Shared Services,11,11,6,5,5
+Building 1,,,0,0,0
+Building 2,6,6,6,0,0
+Building 3,5,5,0,5,5
+Business Shared Services,42,18,0,42,18
+Building 1,29,9,0,29,9
+Building 2,13,9,0,13,9
+Building 3,0,0,0,0,0
+Totals,1337,672,144,1193,528

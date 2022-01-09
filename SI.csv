@@ -1,0 +1,57 @@
+Group,Area,BAU_Allocated,Pandemic_Allocated,Current_Site_Workstations_Utilized ,BAU_Available,Pandemic_Available
+Agents,,1148,688,450,698,238
+,1st floor,0,0,0,0,0
+,2nd floor,505,362,227,278,135
+,Kogan Area,24,20,12,12,8
+,NED Area,124,99,63,61,36
+,CED Area,147,121,73,74,48
+,UPS Area,210,122,79,131,43
+,3rd floor,320,162,74,246,88
+,Kogan,93,47,47,46,0
+,Comcast Training,46,52,52,-6,0
+,NA Disney,6,2,2,4,0
+,AT&T,2,2,2,0,0
+,Unallocated,173,59,0,173,59
+,4th floor,323,164,149,174,15
+,UPS Area,323,164,149,174,15
+Team Leads,,42,34,11,31,23
+,1st floor,0,0,0,0,0
+,2nd floor,21,13,8,13,5
+,Kogan Area,5,3,3,2,0
+,NED Area,10,4,4,6,0
+,CED Area,4,4,2,2,2
+,UPS Area,2,2,2,0,0
+,3rd floor,0,0,0,0,0
+,4th floor,21,21,3,18,18
+,UPS Area,21,21,3,18,18
+,QA,3,3,6,0,0
+,1st floor,0,0,0,0,0
+,2nd floor,3,3,3,0,0
+,Kogan Area,0,0,0,0,0
+,NED Area,0,0,0,0,0
+,CED Area,0,0,0,0,0
+,UPS Area,3,3,3,0,0
+,3rd floor,0,0,0,0,0
+,4th floor,0,0,0,0,0
+,UPS Area,0,0,0,0,0
+Training Rooms,,120,81,68,52,13
+,1st floor,0,0,0,0,0
+,2nd floor,57,39,39,18,0
+,3rd floor,20,13,0,20,13
+,4th floor,43,29,29,14,0
+Operations Management,,0,0,0,0,0
+,1st floor,,,0,0,0
+,2nd floor,,,0,0,0
+,3rd floor,,,0,0,0
+,4th floor,,,0,0,0
+Operational Shared Services,,0,0,0,0,0
+,1st floor,,,0,0,0
+,2nd floor,,,0,0,0
+,3rd floor,,,0,0,0
+,4th floor,,,0,0,0
+Business Shared Services,,1,1,1,0,0
+,1st floor,,,0,0,0
+,2nd floor,1,1,1,0,0
+,3rd floor,,,0,0,0
+,4th floor,,,0,0,0
+Totals,,1314,807,536,781,274

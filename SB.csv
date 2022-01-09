@@ -1,0 +1,43 @@
+Group,Area,BAU_Allocated,Pandemic_Allocated,Current_Site_Workstations_Utilized ,BAU_Available,Pandemic_Available
+Agents,,1105,809,227,878,582
+,Building 1,306,254,0,306,254
+,Techstyle Area,210,214,153,57,61
+,Comcast West Area,96,40,0,96,40
+,Building 2,508,409,227,281,182
+,Comcast West Area,104,85,52,52,33
+,Comcast Central Area,356,292,175,181,117
+,Unallocated,48,32,10,38,22
+,Building 3,291,146,0,291,146
+Team Leads,,0,0,0,0,0
+,Building 1,0,0,0,0,0
+,Techstyle Area,,,0,0,0
+,Comcast West Area,,,0,0,0
+,Building 2,0,0,0,0,0
+,Comcast West Area,,,0,0,0
+,Comcast Central Area,,,0,0,0
+,Building 3,0,0,0,0,0
+QA,,0,0,0,0,0
+,Building 1,0,0,0,0,0
+,Techstyle Area,,,0,0,0
+,Comcast West Area,,,0,0,0
+,Building 2,0,0,0,0,0
+,Comcast West Area,,,0,0,0
+,Comcast Central Area,,,0,0,0
+,Building 3,0,0,0,0,0
+Training Rooms,,175,86,0,175,86
+,Building 1,72,36,0,72,36
+,Building 2,0,0,0,0,0
+,Building 3,103,50,0,103,50
+Operations Management,,4,4,3,1,1
+,Building 1,2,2,2,0,0
+,Building 2,1,1,1,0,0
+,Building 3,1,1,0,1,1
+Operational Shared Services,,11,11,6,5,5
+,Building 1,,,0,0,0
+,Building 2,6,6,6,0,0
+,Building 3,5,5,0,5,5
+Business Shared Services,,42,18,0,42,18
+,Building 1,29,9,0,29,9
+,Building 2,13,9,0,13,9
+,Building 3,0,0,0,0,0
+Totals,,1337,928,236,1101,692

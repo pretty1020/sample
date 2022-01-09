@@ -1,0 +1,16 @@
+PHILIPPINE TOTALS,BAU_Allocated,Pandemic_Allocated,Current_Site_Workstations_Utilized ,BAU_Available,Pandemic_Available
+Ayala,1299,566,564,735,2
+Bacolod,1337,928,236,1101,692
+Iloilo,1314,807,536,781,274
+Pasig,1917,1272,551,1366,721
+Totals,5867,3573,1887,3983,1689
+,,,,,
+BREAKDOWN,BAU_Allocated,Pandemic_Allocated,Current_Site_Workstations_Utilized ,BAU_Available,Pandemic_Available
+Agents,5007,3006,1616,3391,1390
+Team Leads,147,131,64,83,67
+QA,45,23,11,34,12
+Training Rooms,583,352,176,407,176
+Operations Management,21,21,12,9,9
+Operational Shared Services,12,12,7,5,5
+Business Shared Services,52,28,1,51,27
+Totals,5867,3573,1887,3980,1686
